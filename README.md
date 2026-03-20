@@ -5,4 +5,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jflanaganuk)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jflanaganuk)](https://github.com/jflanaganuk/github-profile-trophy)
+
 </div>
